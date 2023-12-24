@@ -1,0 +1,3 @@
+include kat_food_corner/*.py
+recursive-exclude kat_food_corner/migrations *.py
+recursive-exclude tests *.py
