@@ -11,3 +11,5 @@
     - `pipenv install ..\kat-food-corner\dist\KatFoodCorner-0.1.tar.gz`
 
 ## Links
+
+- [http://localhost:8000/foods/](http://localhost:8000/foods/)
